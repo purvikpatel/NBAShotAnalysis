@@ -1,0 +1,43 @@
+Questions -
+
+1) Evolution of 3-pt shot through the years(Features GameDate, shot type,shot Distance, shot Zone Area, shot Zone Range, Shot made flag)
+
+2) Field-goal made from different spots on the court
+   * Find which are more efficient shots
+   * Find which are more efficient shots for different players(might need to use players height, position)
+   * How does the efficiency of shots change over the years
+   
+3) Impact of shot making when playing at home vs away
+   * Generally, good shooters(Regular starters, All-stars) do well at home and away but certain role players(Plays limited minutes from bench) might have a different impact when playing at home vs away
+   * Find out a way to separate good players from role players
+   
+
+4) Playoff vs Regular Season shooting efficiency
+   * Usually playoffs are more intense and players are more focused but at the same time opponents are more prepared defensively. 
+   * Would be interesting to see which players becomes better in the playoffs and which players become worse in the playoffs
+
+
+5) Players who are more efficient in the 4th quarter(clutch factor)
+   * What does it mean to be clutch?
+   
+6) Shooting charts of Players
+   * Simple shooting charts of players
+   * efficiency of shots from different spots on the court
+   * Amount of shots taken from different spots on the court
+   
+7) shooting charts of teams under a certain coach
+   * Trying to find out if a coach has a certain style of play that leads to more efficient shots
+   * Trying to find if a coach has a certain style of play where they prefer to shoot from a certain spots on the court
+   * dataset - https://www.kaggle.com/datasets/jacobbaruch/nba-head-coaches
+
+8) How winning percentage changes when a team shoots more 3's
+
+9) How does a certain player on-court affect overall team shooting efficiency?
+   * Good shooters create better shots for their teammates(opens up the floor)
+   * Stepehen Curry is a good example of this
+   * Is there a correlation between a player's on-court shooting efficiency and the team's overall shooting efficiency?
+
+10) Find teams which are good at defending certain shots?
+    * Some team's are better at defending 3's than others
+
+
